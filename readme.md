@@ -4,3 +4,6 @@ Gruntfile.js spec http://gruntjs.com/configuring-tasks
 
 
 Demo server: php -S localhost:8000
+
+in case of bower error #128
+git config url."https://".insteadOf git://
