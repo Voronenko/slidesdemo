@@ -1,0 +1,1 @@
+python ..\vendor\closure\closure/bin/build/depswriter.py --root_with_prefix="..\vendor\closure\  ../../" --root_with_prefix="..\js\  ../../../../js" --root_with_prefix="..\assets\  ../../../../assets" --root_with_prefix="..\vendor\lime\  ../../../lime/" --root_with_prefix="..\vendor\box2d\src\ ../../../box2d/src/" --output_file="../vendor/closure/closure/goog/deps.js"

@@ -1,0 +1,12 @@
+{
+  "name": "development",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-bowercopy": "~0.8.0",
+    "load-grunt-tasks": "~0.2.1",
+    "grunt-bower-task": "~0.3.4",
+    "grunt-shell": "~0.6.4"
+  }
+}

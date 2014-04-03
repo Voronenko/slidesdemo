@@ -1,0 +1,13 @@
+{
+  "name": "development",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery":"1.9",
+    "bootstrap":"*",
+    "jquery-file-upload": "*", 
+    "blueimp-gallery":"*",
+    "closure-library":"git://code.google.com/p/closure-library/",
+    "limejs":"git://github.com/digitalfruit/limejs",
+    "box2d":"git://github.com/thinkpixellab/pl"  
+  }
+}
